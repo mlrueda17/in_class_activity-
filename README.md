@@ -5,3 +5,5 @@ These are fast forward merges because the base branch being merged has had no ne
 One situation that would create a conflict would be changing the title on one branch, then changing the same title in another branch, then attempting to merge them. 
 
 A situation that would NOT create conflict, is someone adding a header, and then another person adding a footer to the same html document. Because they are not editing the same element it will not create a conflict.
+
+![image](https://github.com/user-attachments/assets/a888b6ea-6033-4e38-afbd-3ec66518154c)
